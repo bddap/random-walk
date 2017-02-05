@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "main": "index.html",
   "scripts": {
-    "start": "nw ."
+    "start": "http-server -o"
   },
   "devDependencies": {
-    "nw": "^0.20.1"
+    "http-server": "^0.9.0"
   }
 }
