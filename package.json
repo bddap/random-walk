@@ -1,0 +1,11 @@
+{
+  "name": "walk",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "start": "nw ."
+  },
+  "devDependencies": {
+    "nw": "^0.20.1"
+  }
+}
